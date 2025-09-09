@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <header className="flex justify-between items-center px-8 py-5 fixed top-0 w-full bg-black bg-opacity-80 backdrop-blur-md z-50 shadow-lg">
+    <header className="flex justify-between items-center px-8 py-4 fixed top-0 w-full bg-black bg-opacity-80 backdrop-blur-md z-50 shadow-lg">
       <h1 className="text-3xl font-extrabold text-green-400">🎮 Game Bazzar</h1>
       <nav className="hidden md:flex space-x-8">
         <a href="#" className="hover:text-green-400 transition font-semibold">Home</a>

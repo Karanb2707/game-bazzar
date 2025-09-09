@@ -4,6 +4,7 @@ import Features from "./components/Features";
 import Products from "./components/Products";
 import Reviews from "./components/Reviews";
 import Footer from "./components/Footer";
+import Upcoming from "./components/Upcoming";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
       <Hero />
       <Features />
       <Products />
+      <Upcoming />
       <Reviews />
       <Footer />
     </div>
