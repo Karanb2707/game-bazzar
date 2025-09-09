@@ -1,7 +1,7 @@
 const reviews = [
-  { text: "Best gaming store ever! Got my PS5 in 2 days.", name: "Alex" },
-  { text: "Customer service is top-notch. Highly recommend.", name: "Priya" },
-  { text: "Amazing deals on new games. I’ll shop here again!", name: "John" },
+  { text: "Best gaming store ever! Got my PS5 in 2 days.", name: "Karan" },
+  { text: "Customer service is top-notch. Highly recommend.", name: "Kruitka" },
+  { text: "Amazing deals on new games. I’ll shop here again!", name: "Kriti" },
 ];
 
 export default function Reviews() {
